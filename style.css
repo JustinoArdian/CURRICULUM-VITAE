@@ -1,4 +1,26 @@
-*{
-    padding: 0%;
-    margin: auto;
+body{
+
+ background-image: url("image/Pinterest.jfif");
+ background-repeat: no-repeat;
+ background-size: 1500px;
+}
+img{
+    margin-right: 70px;
+    border-radius: 10px;
+    border:2px solid rgb(238, 255, 0);
+}
+
+pre{
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+h2{
+    color: rgb(238, 255, 0);
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffff;
 }
